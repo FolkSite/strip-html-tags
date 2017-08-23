@@ -1,6 +1,6 @@
 {
   "name": "strip-html-tags",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "license": "MIT",
   "description": "Strip HTML tags from string. Allow optional tags.",
   "main": "dist/index.js",
