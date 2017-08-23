@@ -14,13 +14,18 @@ const loaders = [
   {
     test: /\.js$/,
     exclude: /node_modules/,
-    loader: 'babel-loader'
+    loader: 'babel-loader',
+    options: {
+      presets: ['es2015', 'stage-0'],
+      plugins: ['transform-runtime', 'add-module-exports']
+    }
   }
 ]
 
 module.exports = {
   entry: path.resolve('src', 'index.js'),
   output: {
+    libraryTarget: 'umd',
     path: path.resolve('dist'),
     filename: 'index.js',
     publicPath: '/'
