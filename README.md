@@ -1,4 +1,7 @@
 # strip-html-tags
+
+[![Build Status](https://travis-ci.org/yarkovaleksei/strip-html-tags.svg?branch=master)](https://travis-ci.org/yarkovaleksei/strip-html-tags)
+
 - - -
 
 ### Compile
