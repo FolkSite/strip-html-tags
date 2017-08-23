@@ -1,6 +1,6 @@
 # strip-html-tags
 
-[![Build Status](https://travis-ci.org/yarkovaleksei/strip-html-tags.svg?branch=master)](https://travis-ci.org/yarkovaleksei/strip-html-tags)
+[![Build Status](https://travis-ci.org/yarkovaleksei/strip-html-tags.svg?branch=master)](https://travis-ci.org/yarkovaleksei/strip-html-tags)  [![David](https://img.shields.io/david/yarkovaleksei/strip-html-tags.svg)](https://david-dm.org/yarkovaleksei/strip-html-tags)
 
 - - -
 
